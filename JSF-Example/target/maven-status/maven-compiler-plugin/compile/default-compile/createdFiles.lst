@@ -1,0 +1,6 @@
+com\song\jsf\example\util\CommonUtils.class
+com\song\jsf\example\FreshsafeCrudBean.class
+com\song\jsf\example\SimpleCrudBean.class
+com\song\jsf\example\Student.class
+com\song\web\filter\NocacheFilter.class
+com\song\jsf\example\util\AppUrlStore.class
